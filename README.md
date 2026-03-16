@@ -7,7 +7,7 @@ It integrates **Firebase Authentication** to provide secure login and registrati
 
 ## 🚀 Live Demo
 
-
+https://dragon-news-jahid.web.app
 ---
 
 ## ✨ Key Features
